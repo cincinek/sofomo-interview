@@ -1,0 +1,6 @@
+API_KEY = 'a202360bdb90971ad35b82adef26ebd9'
+SECRET_KEY = '!t=vnq*+=!lrcn7#j1(b3zm(!z0kw%-j^2sk056j_&y&fbpur-'
+DB_USER = 'admin'
+DB_PWD = 'H4rdPwd*'
+DB_NAME = 'sofomo'
+DB_HOST = '127.0.0.1'
